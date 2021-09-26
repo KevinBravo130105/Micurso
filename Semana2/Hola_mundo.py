@@ -1,5 +1,5 @@
-#message = "Hola mundo :)"
-#print(message)
+message = "Hola mundo :)"
+print(message)
 
 nombre = 'Kevin'
 apellido = 'Bravo'
