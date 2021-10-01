@@ -34,6 +34,6 @@ tuple = (7, 7, 6, 1)
 lista.insert(0, 10)
 lista.append("Hola")
 
-print(lista.reverse)
+print(lista)
 #print(tuple [-1])
 
