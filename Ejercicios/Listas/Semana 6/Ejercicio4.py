@@ -6,8 +6,10 @@ ultimos_tres = lista[5:]
 for each in primeros_tres:
     print(each)
 
+print("\n")
 for each in proximos_tres:
     print(each)
 
+print("\n")
 for each in ultimos_tres:
      print(each)
