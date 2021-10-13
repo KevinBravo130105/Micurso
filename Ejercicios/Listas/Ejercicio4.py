@@ -11,7 +11,7 @@ print(f"Hola {nombres [2]} ¿Cómo te encuentas el dia de hoy? Quería invitarte
 
 nombres.insert(0, "Raymundo")
 nombres.insert(2, "Luis")
-nombres.insert(5, "Mayavi")
+nombres.append("Mayavi")
 
 for nombre in nombres:
     print(f"Hola {nombre} ¿Cómo te encuentas el dia de hoy? Quería invitarte a mi fiesta de cumpleaños, este jueves a las 3 de la tarde")
